@@ -36,3 +36,9 @@
 	path = submodules/floskell
 	url = https://github.com/ennocramer/floskell
 	# url = https://github.com/alanz/floskell
+[submodule "submodules/liquidhaskell"]
+	path = submodules/liquidhaskell
+	url = https://github.com/ucsd-progsys/liquidhaskell.git
+[submodule "submodules/liquid-fixpoint"]
+	path = submodules/liquid-fixpoint
+	url = https://github.com/ucsd-progsys/liquid-fixpoint.git
